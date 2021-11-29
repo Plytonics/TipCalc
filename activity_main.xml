@@ -1,0 +1,4 @@
+<TextView
+   android:id="@+id/tip_result"
+   ...
+   tools:text="Tip Amount: $10" />
