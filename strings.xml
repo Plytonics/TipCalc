@@ -1,1 +1,9 @@
 <string name="tip_amount">Tip Amount: %s</string>
+
+<EditText
+    android:id="@+id/message"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:inputType=
+        "textCapSentences|textAutoCorrect"
+    />
